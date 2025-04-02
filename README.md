@@ -4,7 +4,7 @@
 This project utilised unsupervised machine learning, in particular K-means clustering, to develop playlist prototypes  from a dataset of 5000 songs for the (mock) company Moosic. The K-means model clustered the songs into “mood” playlists based on 13 quantitative music dimensions i.e. danceability, energy, speechiness etc.
 Two prototypes and strategic recommendations were presented to the mock CEO. 
 
-[Please see final presentation.](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning/blob/main/Product%20Develeopment%20leveraging%20Unsupervised%20Machine%20Learning%20.pptx.pdf)
+[Please see final presentation](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning/blob/main/Product%20Develeopment%20leveraging%20Unsupervised%20Machine%20Learning%20.pptx.pdf)
 
 ## Languages and Libraries Used 
 Python:
@@ -30,7 +30,7 @@ The number of clusters are  central to a K-means model and significantly impact 
 
 **How to evaluate the success of the K-means model for generating playlists.**
 
-The K-means model did generate distinct playlists and the model could be further refined by applying PCA analysis. However, some of the playlists contained a broad range of genres and it is debatable whether they could be categorised into one playlist. <ins>As such, an encompassing framework which considered the following success criteria: 1. Interpretability, 2. Business Relevance & 3. Discovery of new patterns </ins> and manually listening to some of the playlists helped arrive at a final recommendation. As a result, K-means clustering was a good starting point to generate playlists but  human intervention and quality control was still required to ensure optimal playlists. 
+The K-means model did generate distinct playlists and the model could be further refined by applying PCA analysis. However, some of the playlists contained a broad range of genres and it was debatable whether they could be categorised into one playlist. <ins>As such, an encompassing framework which considered the following success criteria: 1. Interpretability, 2. Business Relevance & 3. Discovery of new patterns </ins> and manually listening to some of the playlists helped arrive at a final recommendation. As a result, K-means clustering was a good starting point to generate playlists but  human intervention and quality control was still required to ensure optimal playlists. 
 
 ## Additional Background Information
 Moosic is a small  start-up that creates playlists which users can listen to via their preferred Music App (be it Spotify, Apple Music, Youtube Music…) after subscribing to Moosic’s website. They love the fact that their playlists have a personal touch, and that each playlist encapsulates a certain “mood” or “style”.
