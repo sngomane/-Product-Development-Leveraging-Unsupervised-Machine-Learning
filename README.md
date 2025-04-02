@@ -2,13 +2,17 @@
 
 # Summary 
 This project utilised unsupervised machine learning, in particular K-means clustering, to develop playlist prototypes  from a dataset of 5000 songs for the (mock) company Moosic. The K-means model clustered the songs into “mood” playlists based on 13 quantitative music dimensions i.e. danceability, energy, speechiness etc.
-Two prototypes and strategic recommendations were presented to the mock CEO. Please see the presentation.
+Two prototypes and strategic recommendations were presented to the mock CEO. 
+
+[Please see the presentation.](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning/blob/main/Product%20Develeopment%20leveraging%20Unsupervised%20Machine%20Learning%20.pptx.pdf)
+
 ## Languages and Libraries Used 
 Python:
-Scikit-learn
-Pandas
-Seaborn 
-Matplotlib
+** Scikit-learn
+** Pandas
+** Seaborn 
+** Matplotlib
+** Plotly
 See Please see python notebook with code and analysis 
 ## Arriving at a Prototype and Strategic recommendation 
 Data exploration
